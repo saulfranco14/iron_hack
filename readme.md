@@ -18,7 +18,7 @@ Soy desarrollador(full stack developer), tengo 30 años, me gusta la natación, 
 
 😄 La programación es una forma de innovar nuestro día a día.
 
-⚡️ Al momento de crear la mejor solución(codeando,analizando) debemos de ser abiertos a la opinión de los demás.
+⚡️ Al momento de crear la mejor solución(codeando,analizando) debemos de ser abierto a la opinión de los demás.
 
 
 ## Promesas
