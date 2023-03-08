@@ -1,1 +1,0 @@
-console.log("Entrando al archivo js de la carpeta de back")
